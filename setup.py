@@ -11,7 +11,7 @@ setuptools.setup(
     description='获取碧蓝档案涩图',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/Lptr-byte/nonebot-plugin-nobahpicture',
     packages=setuptools.find_packages(),
     install_requires=['requests==2.25.1'],
     classifiers=(
